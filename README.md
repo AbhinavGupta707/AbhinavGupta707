@@ -80,15 +80,15 @@ In progress. Stay tuned.
 <table>
 <tr>
 <td width="55%" valign="top">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhinavGupta707&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&custom_title=Lifetime%20activity&rank_icon=github" alt="Lifetime GitHub activity — stars, commits, PRs, issues, reviews, PRs merged" width="100%">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Lifetime GitHub activity — stars, forks, issues, commits, PRs, contributed to" width="100%">
 </td>
 <td width="45%" valign="top">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavGupta707&layout=donut&theme=tokyonight&hide_border=true&hide=html,css,jupyter%20notebook&langs_count=8&size_weight=0.5&count_weight=0.5&custom_title=Where%20I%20spend%20bytes" alt="Top languages — weighted by both bytes and repo count" width="100%">
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages weighted by commit volume — where the work actually happens" width="100%">
 </td>
 </tr>
 </table>
 
-<sub><em>Lifetime activity counts all public + private contributions including this year's commits across every repo. Languages chart weights bytes-on-disk equally with repo count, so a small Rust experiment isn't drowned by one massive Python codebase.</em></sub>
+<sub><em>Stats card aggregates every public contribution I've made — commits, PRs, issues, stars, forks — across my repos and ones I've contributed to. Languages chart weights by actual commit volume, so what you see is where I spend keyboard time, not where my biggest checked-in files happen to live. Both regenerate daily via GitHub Actions.</em></sub>
 
 ---
 
