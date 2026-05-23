@@ -86,7 +86,7 @@ In progress. Stay tuned.
 
 <!-- yoshi389111/github-profile-3d-contrib — 3D isometric -->
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D isometric contribution skyline, regenerated daily" width="95%">
+  <img src="./profile-3d-contrib/skyline.svg" alt="3D isometric contribution skyline, regenerated daily" width="95%">
 </p>
 
 ---

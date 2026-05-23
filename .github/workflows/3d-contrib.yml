@@ -20,7 +20,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: abhinavgupta707
           # Settings live in ./sample-settings/ in the action repo — these are good presets:
-          SETTING_JSON: sample-settings/profile-night-rainbow.json
+          SETTING_JSON: .github/3d-settings.json
 
       - name: Commit generated SVG
         run: |
