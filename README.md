@@ -8,18 +8,14 @@
 
 ## Hi, I'm Abhinav 👋
 
-I build a lot. Doesn't matter the domain — finance, healthcare, video, random consumer apps. The repos below are just some of what I'm working on right now, not the whole picture.
+Engineer who builds across domains — finance, healthcare, video, consumer apps.
 
-**What I'm actually trying to get good at:** agentic AI. Specifically, how to design workflows that solve real consumer and business problems — not just demos that look impressive.
+**Focused on agentic AI** — how to design workflows that solve real consumer and business problems.
 
-A few things I'm into:
-- Financial markets — research, trading, microstructure
-- Consumer products for places startups usually skip
-- Hackathons (best way to learn fast)
-- Agent protocols like MCP and A2A, and where they're going
-- Building > talking about building
-
-If any of that overlaps with what you're doing, say hi.
+- Financial markets (research, trading, microstructure)
+- Consumer tech for emerging markets, India in particular
+- Agent protocols (MCP, A2A)
+- Hackathons
 
 ---
 
