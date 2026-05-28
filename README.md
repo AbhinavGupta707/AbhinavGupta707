@@ -8,17 +8,18 @@
 
 ## Hi, I'm Abhinav 👋
 
-- 🤖 Build **AI agents you'd actually let near production** — deterministic, verifiable, ship-grade
-- 📈 Deep in **financial markets** — equity research autopilots, quant strategy, market microstructure
-- 🎬 Into **generative video** and **creative coding** — diffusion pipelines, TouchDesigner
-- 🇮🇳 Interested in **tech for the Indian household** and markets the Valley skips
-- 🏆 **Hackathon** regular — best forcing function for shipping fast
+I build a lot. Doesn't matter the domain — finance, healthcare, video, random consumer apps. The repos below are just some of what I'm working on right now, not the whole picture.
 
-**🌱 Currently learning** — MCP / A2A agent protocols, voice AI, production LLM eval, scaling beta → revenue
+**What I'm actually trying to get good at:** agentic AI. Specifically, how to design workflows that solve real consumer and business problems — not just demos that look impressive.
 
-**💬 Ask me about** — verifiable AI agents, equity research automation, quant research, hackathon prep
+A few things I'm into:
+- Financial markets — research, trading, microstructure
+- Consumer products for places startups usually skip
+- Hackathons (best way to learn fast)
+- Agent protocols like MCP and A2A, and where they're going
+- Building > talking about building
 
-**👥 Looking to collaborate on** — high-stakes agent work, fintech automation, India-context consumer products
+If any of that overlaps with what you're doing, say hi.
 
 ---
 
