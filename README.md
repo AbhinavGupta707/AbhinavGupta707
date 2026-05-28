@@ -1,7 +1,7 @@
 <!-- HERO BANNER (animated, light/dark aware) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <img src="./assets/hero-light.svg" alt="Abhinav Gupta" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark-v2.svg">
+  <img src="./assets/hero-light-v2.svg" alt="Abhinav Gupta" width="100%">
 </picture>
 
 <br>
