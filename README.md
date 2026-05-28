@@ -6,11 +6,19 @@
 
 <br>
 
-> **Building AI agents you'd actually let near production.**
->
-> Rules-engine verdicts over vibes. Audit trails over autocomplete. Working on that thesis across clinical decision-making, fundamental research, generative video, and household ops.
+## Hi, I'm Abhinav 👋
 
-**2026:** the boring scaffolding that makes LLMs trustworthy — MCP servers, verdict systems, evaluation harnesses.
+- 🤖 Build **AI agents you'd actually let near production** — deterministic, verifiable, ship-grade
+- 📈 Deep in **financial markets** — equity research autopilots, quant strategy, market microstructure
+- 🎬 Into **generative video** and **creative coding** — diffusion pipelines, TouchDesigner
+- 🇮🇳 Interested in **tech for the Indian household** and markets the Valley skips
+- 🏆 **Hackathon** regular — best forcing function for shipping fast
+
+**🌱 Currently learning** — MCP / A2A agent protocols, voice AI, production LLM eval, scaling beta → revenue
+
+**💬 Ask me about** — verifiable AI agents, equity research automation, quant research, hackathon prep
+
+**👥 Looking to collaborate on** — high-stakes agent work, fintech automation, India-context consumer products
 
 ---
 
