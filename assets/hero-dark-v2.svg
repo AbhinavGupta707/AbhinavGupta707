@@ -87,7 +87,7 @@
       <animate attributeName="r" values="3.5;12;3.5" dur="2.8s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0.5;0;0.5" dur="2.8s" repeatCount="indefinite"/>
     </circle>
-    <text x="14" fill="#9ece6a">shipping · 2026</text>
+    <text x="14" fill="#9ece6a">caffeinated · shipping · 2026</text>
   </g>
 
   <!-- Orbital agent constellation -->
@@ -193,7 +193,7 @@
     <text fill="#565f89">~ </text>
     <text x="22" fill="#9ece6a">$ </text>
     <text x="40" fill="#a9b1d6">whoami</text>
-    <text x="40" y="22" fill="#565f89" font-size="13">→ ai agent engineer · ships verifiable systems · india</text>
+    <text x="40" y="22" fill="#565f89" font-size="13">→ agentic engineer who loves to build and learn</text>
     <text x="0"  y="48" fill="#565f89">~ </text>
     <text x="22" y="48" fill="#9ece6a">$ </text>
     <text x="40" y="48" fill="#a9b1d6">status</text>
