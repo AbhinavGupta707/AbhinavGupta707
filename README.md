@@ -8,7 +8,7 @@
 
 ## Hi, I'm Abhinav 👋
 
-Engineer working across finance, healthcare, video, and consumer apps.
+Builder working across finance, healthcare, video, and consumer apps.
 
 **Focused on agentic AI**: how to design workflows that solve real consumer and business problems.
 
@@ -16,14 +16,6 @@ Engineer working across finance, healthcare, video, and consumer apps.
 - Consumer tech for emerging markets, India in particular
 - Agent protocols (MCP, A2A)
 - Hackathons (best way to learn fast)
-
----
-
-### Activity overview
-
-<p align="center">
-  <img src="./assets/activity-radar.svg" alt="Activity overview: how my contributions break down across commits, code review, issues, and pull requests" width="60%">
-</p>
 
 ---
 

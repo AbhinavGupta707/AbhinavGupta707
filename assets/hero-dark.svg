@@ -172,7 +172,7 @@
   <!-- Cycling subtitle -->
   <g font-family="ui-monospace, SFMono-Regular, monospace" font-size="24">
     <text x="80" y="305" fill="#7dcfff">
-      <tspan opacity="0">engineer · builds across domains
+      <tspan opacity="0">builder · across domains
         <animate attributeName="opacity" values="0;1;1;0;0;0;0" keyTimes="0;0.05;0.28;0.33;0.66;0.95;1" dur="12s" repeatCount="indefinite"/>
       </tspan>
     </text>
@@ -182,7 +182,7 @@
       </tspan>
     </text>
     <text x="80" y="305" fill="#7aa2f7">
-      <tspan opacity="0">consumer & business problems
+      <tspan opacity="0">consumer &amp; business problems
         <animate attributeName="opacity" values="0;0;0;0;0;1;1;0" keyTimes="0;0.6;0.65;0.66;0.7;0.74;0.95;1" dur="12s" repeatCount="indefinite"/>
       </tspan>
     </text>
